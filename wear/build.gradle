@@ -29,5 +29,5 @@ dependencies {
     implementation project(':core')
     implementation "com.badlogicgames.gdx:gdx:1.14.2"
     implementation "com.badlogicgames.gdx:gdx-backend-android:1.14.2"
-    implementation "androidx.appcompat:appcompat:1.7.1"
+    implementation "androidx.appcompat:appcompat:1.8.0"
 }
